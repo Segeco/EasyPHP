@@ -1,4 +1,4 @@
-# Mont PHP Database Wrapper
+# PHP PDO Database Wrapper
 
 A lightweight and secure object-oriented PHP wrapper for interacting with a database using PDO. This class simplifies common database operations such as fetching data, inserting rows, executing raw SQL, and more.
 
